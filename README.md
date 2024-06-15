@@ -19,4 +19,5 @@ My leetcode solutions upload
 # Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0908-middle-of-the-linked-list) |
