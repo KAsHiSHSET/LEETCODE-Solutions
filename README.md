@@ -11,6 +11,7 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -24,6 +25,7 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0328-odd-even-linked-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0908-middle-of-the-linked-list) |
 # Array
@@ -42,3 +44,4 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0142-linked-list-cycle-ii) |
