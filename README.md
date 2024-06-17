@@ -35,6 +35,7 @@ My leetcode solutions upload
 # Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0917-boats-to-save-people) |
 # Greedy
@@ -58,4 +59,5 @@ My leetcode solutions upload
 # Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0792-binary-search) |
