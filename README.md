@@ -35,6 +35,7 @@ My leetcode solutions upload
 # Array
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0917-boats-to-save-people) |
 # Greedy
 |  |
@@ -54,3 +55,7 @@ My leetcode solutions upload
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0203-remove-linked-list-elements) |
+# Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0792-binary-search) |
