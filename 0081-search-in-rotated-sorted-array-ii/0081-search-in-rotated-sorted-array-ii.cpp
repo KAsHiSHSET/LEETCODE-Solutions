@@ -13,8 +13,7 @@ public:
             if((nums[mid]==nums[low])&&(nums[mid]==nums[high])){
                 low++;
                 high--;
-                continue;
-               
+               continue;
             }
                //left array sorted
            if (nums[low] <= nums[mid]) {
