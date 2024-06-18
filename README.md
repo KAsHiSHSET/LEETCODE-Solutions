@@ -40,6 +40,7 @@ My leetcode solutions upload
 | [0035-search-insert-position](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0917-boats-to-save-people) |
 # Greedy
@@ -68,4 +69,5 @@ My leetcode solutions upload
 | [0035-search-insert-position](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0792-binary-search) |
