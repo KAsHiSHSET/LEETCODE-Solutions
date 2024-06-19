@@ -46,6 +46,7 @@ My leetcode solutions upload
 | [0540-single-element-in-a-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0917-boats-to-save-people) |
+| [2737-row-with-maximum-ones](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2737-row-with-maximum-ones) |
 # Greedy
 |  |
 | ------- |
@@ -82,6 +83,7 @@ My leetcode solutions upload
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [2737-row-with-maximum-ones](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2737-row-with-maximum-ones) |
 # Divide and Conquer
 |  |
 | ------- |
