@@ -11,6 +11,7 @@ My leetcode solutions upload
 # Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0165-compare-version-numbers) |
@@ -21,6 +22,7 @@ My leetcode solutions upload
 # String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0344-reverse-string) |
 # Linked List
