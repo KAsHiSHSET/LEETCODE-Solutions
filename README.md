@@ -49,6 +49,7 @@ My leetcode solutions upload
 | [0792-binary-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0917-boats-to-save-people) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2737-row-with-maximum-ones](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2737-row-with-maximum-ones) |
 # Greedy
 |  |
@@ -96,3 +97,23 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0898-transpose-matrix) |
+# Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Sliding Window
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
