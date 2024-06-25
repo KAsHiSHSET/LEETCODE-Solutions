@@ -43,6 +43,7 @@ My leetcode solutions upload
 | [0035-search-insert-position](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -117,3 +118,7 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0152-maximum-product-subarray) |
