@@ -9,6 +9,7 @@ My leetcode solutions upload
 | [0007-reverse-integer](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0263-ugly-number) |
 # Two Pointers
 |  |
 | ------- |
