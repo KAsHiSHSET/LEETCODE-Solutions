@@ -189,6 +189,7 @@ My leetcode solutions upload
 | ------- |
 | [0012-integer-to-roman](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0067-add-binary) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
@@ -198,6 +199,7 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
 |  |
@@ -236,4 +238,12 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
