@@ -9,6 +9,6 @@ public:
         }
         reverse(nums.begin(),nums.end());
         return nums;
-        
+
     }
 };
