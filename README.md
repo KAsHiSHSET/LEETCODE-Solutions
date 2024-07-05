@@ -312,4 +312,20 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
