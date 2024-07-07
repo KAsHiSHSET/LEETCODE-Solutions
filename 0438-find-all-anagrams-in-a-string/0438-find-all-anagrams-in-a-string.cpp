@@ -21,7 +21,7 @@ public:
         for(int i=right;i<slen;i++){
             if(v1==v2) ans.push_back(left);
             right++;
-            if(right!=slen){
+           if(right!=slen){
                 v1[s[right]-'a']++;
             }
             v1[s[left]-'a']--;
