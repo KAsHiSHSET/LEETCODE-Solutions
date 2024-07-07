@@ -7,13 +7,15 @@ public:
         int left=0;
         int right=matrix[0].size()-1;
         while(left<=right&&top<=bottom){
+            if(top<=bottom){
             for(int i=left;i<=right;i++){
                 ans.push_back(matrix[top][i]);
-            }
+            }}
             top++;
+            if(left<=right){
             for(int i=top;i<=bottom;i++ ){
                 ans.push_back(matrix[i][right]);
-            }
+            }}
             right--;
 
             if(top<=bottom){
