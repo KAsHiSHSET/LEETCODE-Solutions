@@ -153,6 +153,7 @@ My leetcode solutions upload
 | [0015-3sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -211,6 +212,7 @@ My leetcode solutions upload
 | [0012-integer-to-roman](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
@@ -258,6 +260,7 @@ My leetcode solutions upload
 | ------- |
 | [0012-integer-to-roman](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -273,6 +276,7 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0347-top-k-frequent-elements) |
