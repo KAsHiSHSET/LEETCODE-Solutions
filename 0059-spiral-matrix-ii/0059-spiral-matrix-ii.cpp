@@ -7,8 +7,7 @@ public:
         int left=0; int k=1;
         int right=matrix[0].size()-1;
         while(left<=right&&top<=bottom){
-             if(top <= bottom)
-            {
+           
                 for(int i = left; i <= right; i++)
                 {
                     matrix[top][i] = k;
@@ -17,9 +16,8 @@ public:
                 }
                 
                 top++;
-            }
-              if(left <= right)
-            {
+            
+              
                 for(int i = top; i <= bottom; i++)
                 {
                     matrix[i][right] = k;
@@ -28,7 +26,7 @@ public:
                 }
                 
                 right--;
-            }
+            
             
             if(top<=bottom){
                 for(int i=right;i>=left;i--){
