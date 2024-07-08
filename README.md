@@ -235,6 +235,7 @@ My leetcode solutions upload
 | [0048-rotate-image](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0795-k-th-symbol-in-grammar](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -303,6 +304,7 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0067-add-binary) |
+| [0795-k-th-symbol-in-grammar](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 ## Simulation
 |  |
 | ------- |
@@ -377,6 +379,7 @@ My leetcode solutions upload
 ## Recursion
 |  |
 | ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
