@@ -152,6 +152,7 @@ My leetcode solutions upload
 | [0011-container-with-most-water](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0054-spiral-matrix) |
@@ -397,4 +398,5 @@ My leetcode solutions upload
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
