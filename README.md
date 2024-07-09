@@ -151,6 +151,7 @@ My leetcode solutions upload
 | ------- |
 | [0011-container-with-most-water](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0048-rotate-image) |
@@ -248,6 +249,7 @@ My leetcode solutions upload
 | ------- |
 | [0011-container-with-most-water](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0567-permutation-in-string) |
