@@ -196,6 +196,7 @@ My leetcode solutions upload
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -215,6 +216,7 @@ My leetcode solutions upload
 | [0012-integer-to-roman](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0067-add-binary) |
@@ -390,4 +392,5 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
