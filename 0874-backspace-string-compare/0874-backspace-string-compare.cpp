@@ -2,7 +2,7 @@ class Solution {
 public:
     string finalstring(string s){
         string newstring="";
-        for(auto ch:s){
+        for(char ch:s){
             if(ch!='#'){
                 newstring.push_back(ch);
             }
