@@ -189,6 +189,7 @@ My leetcode solutions upload
 | [0155-min-stack](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
@@ -230,6 +231,7 @@ My leetcode solutions upload
 | [0242-valid-anagram](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0567-permutation-in-string) |
+| [0874-backspace-string-compare](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Greedy
@@ -260,6 +262,7 @@ My leetcode solutions upload
 | [0350-intersection-of-two-arrays-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0874-backspace-string-compare](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -327,6 +330,7 @@ My leetcode solutions upload
 | [0059-spiral-matrix-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
