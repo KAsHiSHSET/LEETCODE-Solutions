@@ -159,6 +159,7 @@ My leetcode solutions upload
 | [0054-spiral-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -220,6 +221,7 @@ My leetcode solutions upload
 | [0054-spiral-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0085-maximal-rectangle) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## String
@@ -232,6 +234,7 @@ My leetcode solutions upload
 | [0049-group-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0567-permutation-in-string) |
@@ -417,4 +420,5 @@ My leetcode solutions upload
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
