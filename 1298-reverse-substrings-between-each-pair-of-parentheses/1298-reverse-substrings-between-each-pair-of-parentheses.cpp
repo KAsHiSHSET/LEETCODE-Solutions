@@ -8,11 +8,11 @@ public:
             }
             else if(s[i]==')'){
                 string helper="";
-                while(!st.empty()&&st.top()!='('){
+                while(st.top()!='('){
                     helper.push_back(st.top());
                     st.pop();
                 }
-                if(!st.empty())
+                
                   st.pop();
                 int j=0;
                 while(j<helper.length()){
