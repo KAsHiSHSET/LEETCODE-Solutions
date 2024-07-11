@@ -5,8 +5,9 @@ public:
         if(i<0||j<0) return 1e9;
         if(dp[i][j]!=-1) return dp[i][j];
        
-      long long  int up=grid[i][j]+helper(i-1,j,grid,dp);
+      
        long long  int left=grid[i][j]+helper(i,j-1,grid,dp);
+       long long  int up=grid[i][j]+helper(i-1,j,grid,dp);
         return  dp[i][j]= min(left,up);
     }
     int minPathSum(vector<vector<int>>& grid) {
