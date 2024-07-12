@@ -179,6 +179,7 @@ My leetcode solutions upload
 | [0948-sort-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1127-last-stone-weight](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1127-last-stone-weight) |
+| [1331-path-with-maximum-gold](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1331-path-with-maximum-gold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1720-crawler-log-folder](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1720-crawler-log-folder) |
@@ -239,6 +240,7 @@ My leetcode solutions upload
 | [0079-word-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0085-maximal-rectangle) |
 | [0967-minimum-falling-path-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0967-minimum-falling-path-sum) |
+| [1331-path-with-maximum-gold](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1331-path-with-maximum-gold) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## String
 |  |
@@ -442,6 +444,7 @@ My leetcode solutions upload
 | [0022-generate-parentheses](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0079-word-search) |
+| [1331-path-with-maximum-gold](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1331-path-with-maximum-gold) |
 ## Combinatorics
 |  |
 | ------- |
