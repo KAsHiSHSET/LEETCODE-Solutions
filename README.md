@@ -357,6 +357,7 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0191-number-of-1-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 ## Simulation
 |  |
@@ -372,6 +373,7 @@ My leetcode solutions upload
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0948-sort-an-array) |
