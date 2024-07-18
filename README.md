@@ -325,6 +325,7 @@ My leetcode solutions upload
 | [0350-intersection-of-two-arrays-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0567-permutation-in-string) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
@@ -347,6 +348,7 @@ My leetcode solutions upload
 | [0414-third-maximum-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0414-third-maximum-number) |
 | [0658-find-k-closest-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0948-sort-an-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2836-neither-minimum-nor-maximum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 ## Prefix Sum
@@ -433,6 +435,7 @@ My leetcode solutions upload
 | [0145-binary-tree-postorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
@@ -445,6 +448,7 @@ My leetcode solutions upload
 | [0144-binary-tree-preorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
 |  |
@@ -453,6 +457,7 @@ My leetcode solutions upload
 | [0102-binary-tree-level-order-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -467,6 +472,7 @@ My leetcode solutions upload
 | [0145-binary-tree-postorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Recursion
 |  |
