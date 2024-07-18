@@ -432,6 +432,7 @@ My leetcode solutions upload
 | [0144-binary-tree-preorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
@@ -465,6 +466,7 @@ My leetcode solutions upload
 | [0144-binary-tree-preorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Recursion
 |  |
@@ -490,4 +492,8 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0062-unique-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
