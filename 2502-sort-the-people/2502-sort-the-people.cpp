@@ -18,11 +18,12 @@ public:
         pq.push({heights[i],names[i]});
     }
     int i=0;
+    vector<string> ans;
     while(!pq.empty()){
-       names[i++]= pq.top().second;
+       ans.push_back(pq.top().second);
        pq.pop();
     }
-    return names;
+    return ans;
 
     }
 };
