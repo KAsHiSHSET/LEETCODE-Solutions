@@ -1,43 +1,43 @@
-
 class Solution {
 public:
+    
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        queue<pair<pair<int, int>, int>> q;
-
-        int n=mat.size();
-        int m=mat[0].size();
-        vector<vector<int>>visited(n,vector<int>(m,0));
-        vector<vector<int>>ans(n,vector<int>(m,0));
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(mat[i][j]==0){
+        queue<pair<pair<long int,long int>,int>> q;
+        int m=mat.size();
+        int n=mat[0].size();
+        vector<vector<int>> visited(m,vector<int> (n,0));
+        vector<vector<int>> distance(m,vector<int> (n,0));
+       
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(mat[i][j]==0)
+                  {
                     q.push({{i,j},0});
-                    ans[i][j]=0;
                     visited[i][j]=1;
-                }
+                  }
+                  else{
+                    visited[i][j]=0;
+                  }
+                
             }
         }
-
+        int nrow[]={-1,1,0,0};
+        int ncol[]={0,0,-1,1};
         while(!q.empty()){
-            int i=q.front().first.first;
-            int j=q.front().first.second;
-            int dis=q.front().second;
+            long int row=q.front().first.first;
+            long int col=q.front().first.second;
+            long int d=q.front().second;
+            distance[row][col]=d;
             q.pop();
-            int arrrow[]={-1,0,1,0};
-            int arrcol[]={0,-1,0,1};
-            int x=0;
-            while(x<4){
-                int ni=i+arrrow[x];
-                int nj=j+arrcol[x];
-                if(ni>=0 && nj>=0 && ni<n && nj<m){
-                if(!visited[ni][nj]){
-                    visited[ni][nj]++;
-                    ans[ni][nj]=dis+1;
-                    q.push({{ni,nj},dis+1});
-                }}
-                x++;
-            }
+            for(int i=0;i<4;i++){
+            long int newrow=row+nrow[i];
+            long int newcol=col+ncol[i];
+            if(newrow>=0&&newcol>=0&&newrow<m&&newcol<n&&visited[newrow][newcol]==0){
+                q.push({{newrow,newcol},d+1});
+                visited[newrow][newcol]=1;
+            }}
+
         }
-        return ans;
+        return distance;
     }
 };
