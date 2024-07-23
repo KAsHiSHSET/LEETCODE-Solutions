@@ -174,6 +174,7 @@ My leetcode solutions upload
 | [0350-intersection-of-two-arrays-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0733-flood-fill) |
@@ -235,6 +236,7 @@ My leetcode solutions upload
 | [0198-house-robber](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1013-fibonacci-number) |
@@ -249,6 +251,7 @@ My leetcode solutions upload
 | [0073-set-matrix-zeroes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1036-rotting-oranges) |
@@ -486,6 +489,7 @@ My leetcode solutions upload
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0733-flood-fill) |
