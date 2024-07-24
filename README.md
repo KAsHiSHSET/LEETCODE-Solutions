@@ -173,6 +173,7 @@ My leetcode solutions upload
 | [0215-kth-largest-element-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0542-01-matrix) |
@@ -404,6 +405,7 @@ My leetcode solutions upload
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1127-last-stone-weight) |
