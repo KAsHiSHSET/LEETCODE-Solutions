@@ -490,6 +490,7 @@ My leetcode solutions upload
 | [0547-number-of-provinces](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1073-number-of-enclaves](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1073-number-of-enclaves) |
@@ -509,6 +510,7 @@ My leetcode solutions upload
 | [0547-number-of-provinces](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1073-number-of-enclaves) |
@@ -577,8 +579,10 @@ My leetcode solutions upload
 | ------- |
 | [0207-course-schedule](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
