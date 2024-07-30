@@ -278,6 +278,7 @@ My leetcode solutions upload
 | [0079-word-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0874-backspace-string-compare) |
@@ -323,6 +324,7 @@ My leetcode solutions upload
 | [0155-min-stack](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0937-online-stock-span](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -466,6 +468,7 @@ My leetcode solutions upload
 | [0199-binary-tree-right-side-view](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -488,6 +491,7 @@ My leetcode solutions upload
 | [0199-binary-tree-right-side-view](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0547-number-of-provinces) |
@@ -508,6 +512,7 @@ My leetcode solutions upload
 | [0130-surrounded-regions](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0207-course-schedule) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0547-number-of-provinces) |
@@ -533,6 +538,7 @@ My leetcode solutions upload
 | [0199-binary-tree-right-side-view](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
