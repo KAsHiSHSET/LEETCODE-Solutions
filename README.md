@@ -286,6 +286,7 @@ My leetcode solutions upload
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -608,4 +609,8 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
