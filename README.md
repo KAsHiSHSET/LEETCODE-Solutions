@@ -274,6 +274,7 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0022-generate-parentheses) |
@@ -608,6 +609,7 @@ My leetcode solutions upload
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## String Matching
 |  |
