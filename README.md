@@ -159,6 +159,7 @@ My leetcode solutions upload
 | [0049-group-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0064-minimum-path-sum) |
@@ -235,6 +236,7 @@ My leetcode solutions upload
 | ------- |
 | [0022-generate-parentheses](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0064-minimum-path-sum) |
@@ -301,6 +303,7 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2032-largest-odd-number-in-string) |
