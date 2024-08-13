@@ -196,6 +196,7 @@ My leetcode solutions upload
 | [1127-last-stone-weight](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1127-last-stone-weight) |
 | [1331-path-with-maximum-gold](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1331-path-with-maximum-gold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1720-crawler-log-folder](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -312,6 +313,7 @@ My leetcode solutions upload
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0876-hand-of-straights](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -372,6 +374,7 @@ My leetcode solutions upload
 | [0876-hand-of-straights](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -400,6 +403,7 @@ My leetcode solutions upload
 | [0948-sort-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2502-sort-the-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 ## Prefix Sum
