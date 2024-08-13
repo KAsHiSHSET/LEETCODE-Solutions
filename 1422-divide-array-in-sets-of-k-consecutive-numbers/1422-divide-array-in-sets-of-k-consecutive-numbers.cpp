@@ -6,7 +6,7 @@ public:
       sort(nums.begin(),nums.end());
       while (!nums.empty()) {
         int start = nums[0];
-        for (int i = 0; i < k; ++i) {
+        for (int i = 0; i < k; i++) {
             auto it = find(nums.begin(), nums.end(), start + i);
             if (it == nums.end()) {
                 return false;
