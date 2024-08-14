@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     // Helper function to explore all paths starting from the current node
     int dfs(TreeNode* root, long int sum, int targetSum) {
         if (root == NULL) return 0;
@@ -9,7 +10,7 @@ public:
         if (sum + root->val == targetSum) {
             count++;
         }
-        
+    
         // Continue searching in left and right subtrees
         count += dfs(root->left, sum + root->val, targetSum);
         count += dfs(root->right, sum + root->val, targetSum);
