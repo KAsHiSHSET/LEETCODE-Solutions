@@ -14,8 +14,8 @@ public:
     bool helper(TreeNode* root,int targetSum,int sum){
         if(root==NULL) return false;
         sum+=root->val;
-        if(root->left==NULL&&root->right==NULL&&targetSum==sum) return true;
-     
+        if(root->left==NULL&&root->right==NULL) return targetSum==sum;
+         
         bool left=helper(root->left,targetSum,sum);
         bool right=helper(root->right,targetSum,sum);
         return left||right;
