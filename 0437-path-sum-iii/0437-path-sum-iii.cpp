@@ -4,7 +4,7 @@ public:
     int dfs(TreeNode* root, long int sum, int targetSum) {
         if (root == NULL) return 0;
         
-        // Count this path if it adds up to targetSum
+        // Count this path if it adds up to targetSum5
         int count = 0;
         if (sum + root->val == targetSum) {
             count++;
@@ -17,16 +17,16 @@ public:
         return count;
     }
     
-    // Main function to iterate over each node and check paths
+   
     int pathSum(TreeNode* root, int targetSum) {
         if (root == NULL) return 0;
         
-        // Count paths starting from the current node
+  
         int count = dfs(root, 0, targetSum);
         
-        // Recursively check paths from the left and right children
-        count += pathSum(root->left, targetSum);
-        count += pathSum(root->right, targetSum);
+        
+        count =count+ pathSum(root->left, targetSum)+pathSum(root->right, targetSum);
+        
         
         return count;
     }
