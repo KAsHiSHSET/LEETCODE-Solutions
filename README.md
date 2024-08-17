@@ -183,6 +183,7 @@ My leetcode solutions upload
 | [0414-third-maximum-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0682-baseball-game) |
@@ -256,6 +257,7 @@ My leetcode solutions upload
 | [0213-house-robber-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -617,6 +619,7 @@ My leetcode solutions upload
 | [0051-n-queens](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0494-target-sum) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1331-path-with-maximum-gold](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1331-path-with-maximum-gold) |
 ## Combinatorics
