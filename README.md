@@ -263,6 +263,7 @@ My leetcode solutions upload
 | [0747-min-cost-climbing-stairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Matrix
 |  |
@@ -305,6 +306,7 @@ My leetcode solutions upload
 | [0874-backspace-string-compare](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1250-longest-common-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1720-crawler-log-folder](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1720-crawler-log-folder) |
