@@ -201,6 +201,7 @@ My leetcode solutions upload
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1720-crawler-log-folder](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -262,6 +263,7 @@ My leetcode solutions upload
 | [0747-min-cost-climbing-stairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1013-fibonacci-number) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Matrix
 |  |
 | ------- |
@@ -411,6 +413,7 @@ My leetcode solutions upload
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2502-sort-the-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 ## Prefix Sum
