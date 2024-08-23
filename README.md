@@ -170,6 +170,7 @@ My leetcode solutions upload
 | [0084-largest-rectangle-in-histogram](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -253,6 +254,7 @@ My leetcode solutions upload
 | [0070-climbing-stairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0198-house-robber) |
