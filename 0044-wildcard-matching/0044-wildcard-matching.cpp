@@ -41,7 +41,7 @@ public:
 
         // String is exhausted but pattern is not
         if (i == 0 && j > 0) {
-            for (int k = 0; k < j; k++) {
+            for (int k = 0; k <j; k++) {
                 if (p[k] != '*') return false;
             }
             return true;
