@@ -214,6 +214,7 @@ My leetcode solutions upload
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2727-number-of-senior-citizens](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
+| [3221-find-the-peaks](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3221-find-the-peaks) |
 | [3311-ant-on-the-boundary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3311-ant-on-the-boundary) |
 ## Stack
 |  |
@@ -683,4 +684,8 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0812-rotate-string) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
