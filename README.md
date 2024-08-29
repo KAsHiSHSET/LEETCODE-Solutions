@@ -174,6 +174,7 @@ My leetcode solutions upload
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -503,6 +504,7 @@ My leetcode solutions upload
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
