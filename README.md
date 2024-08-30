@@ -194,6 +194,7 @@ My leetcode solutions upload
 | [0735-asteroid-collision](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0876-hand-of-straights](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -336,6 +337,7 @@ My leetcode solutions upload
 | [0055-jump-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0876-hand-of-straights](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2032-largest-odd-number-in-string) |
