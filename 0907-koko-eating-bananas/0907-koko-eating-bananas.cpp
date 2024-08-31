@@ -13,7 +13,7 @@ public:
     int minEatingSpeed(std::vector<int>& piles, int h) {
         int low = 1;  // Minimum possible eating speed
         int high = *max_element(piles.begin(), piles.end());  // Maximum pile size
-        int result = 0;  // Initialize result with the highest possible speed
+        int result = 31;  // Initialize result with the highest possible speed
 
         while (low <= high) {
             int mid = (low + high) / 2;
