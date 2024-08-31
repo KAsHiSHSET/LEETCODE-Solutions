@@ -10,18 +10,18 @@ public:
         return total_hours;
     }
 
-    int minEatingSpeed(std::vector<int>& piles, int h) {
-        int low = 1;  // Minimum possible eating speed
-        int high = *max_element(piles.begin(), piles.end());  // Maximum pile size
-        int result = 31;  // Initialize result with the highest possible speed
+    int minEatingSpeed(vector<int>& piles, int h) {
+        int low = 1;  
+        int high = *max_element(piles.begin(), piles.end());  
+        int result = high; 
 
         while (low <= high) {
             int mid = (low + high) / 2;
             if (hoursRequired(piles, mid) <= h) {
-                result = mid;  // This is a valid speed, try to find a smaller one
+                result = mid;  
                 high = mid - 1;
             } else {
-                low = mid + 1;  // Speed too slow, increase it
+                low = mid + 1; 
             }
         }
 
