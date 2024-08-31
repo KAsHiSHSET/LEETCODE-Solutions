@@ -201,6 +201,7 @@ My leetcode solutions upload
 | [0966-binary-subarrays-with-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1036-rotting-oranges) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1127-last-stone-weight) |
 | [1331-path-with-maximum-gold](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1331-path-with-maximum-gold) |
@@ -516,6 +517,7 @@ My leetcode solutions upload
 | [0374-guess-number-higher-or-lower](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Interactive
 |  |
 | ------- |
