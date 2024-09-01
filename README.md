@@ -162,6 +162,7 @@ My leetcode solutions upload
 | [0051-n-queens](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0063-unique-paths-ii) |
@@ -426,6 +427,7 @@ My leetcode solutions upload
 | [0015-3sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0347-top-k-frequent-elements) |
