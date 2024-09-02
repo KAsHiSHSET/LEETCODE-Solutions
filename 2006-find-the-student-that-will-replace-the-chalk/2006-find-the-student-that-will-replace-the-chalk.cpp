@@ -23,14 +23,14 @@ public:
         k %= sum;  // Reduce k modulo the total sum to optimize the process
 
         // Traverse through the chalk array to find the first index where k becomes less than the chalk required
-        for (int i = 0; i < chalk.size(); ++i) {
+        int i = 0;
+        for (; i < chalk.size(); ++i) {
             if (k < chalk[i]) {
-                return i;
+               break;
             }
             k -= chalk[i];
         }
+        return i;
 
-        // The loop should return the correct index, and return -1 is only a safeguard (though it shouldn't be needed)
-        return -1;
     }
 };
