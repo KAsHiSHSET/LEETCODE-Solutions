@@ -3,7 +3,7 @@ public:
     int chalkReplacer(vector<int>& chalk, int k) {
        long long int sum=accumulate(chalk.begin(),chalk.end(),0LL);
         int total=k%sum;
-        if(total==0) return 0;
+        // if(total==0) return 0;
         int i=0;
         for(;i<chalk.size();i++){
             if(total>chalk[i]){
@@ -17,20 +17,3 @@ public:
         return i;
     }
 };
-// class Solution {
-// public:
-//     int chalkReplacer(vector<int>& chalk, int k) {
-//         long long sum = accumulate(chalk.begin(), chalk.end(), 0LL); 
-//         k %= sum;
-//         if(k==0) return 0;
-//         int i = 0;
-//         for (; i < chalk.size(); i++) {
-//             if (k < chalk[i]) {
-//                break;
-//             }
-//             k -= chalk[i];
-//         }
-//         return i;
-
-//     }
-// };
