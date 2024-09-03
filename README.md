@@ -367,6 +367,7 @@ My leetcode solutions upload
 | [1642-water-bottles](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -481,6 +482,7 @@ My leetcode solutions upload
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3311-ant-on-the-boundary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3311-ant-on-the-boundary) |
 ## Divide and Conquer
 |  |
