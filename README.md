@@ -215,6 +215,7 @@ My leetcode solutions upload
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2047-find-a-peak-element-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -305,6 +306,7 @@ My leetcode solutions upload
 | [1073-number-of-enclaves](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1073-number-of-enclaves) |
 | [1331-path-with-maximum-gold](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1331-path-with-maximum-gold) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2047-find-a-peak-element-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## String
 |  |
@@ -536,6 +538,7 @@ My leetcode solutions upload
 | [0907-koko-eating-bananas](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2047-find-a-peak-element-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Interactive
 |  |
 | ------- |
