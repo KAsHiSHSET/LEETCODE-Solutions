@@ -194,6 +194,7 @@ My leetcode solutions upload
 | [0542-01-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -302,6 +303,7 @@ My leetcode solutions upload
 | [0200-number-of-islands](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1036-rotting-oranges) |
@@ -601,6 +603,7 @@ My leetcode solutions upload
 | [0547-number-of-provinces](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0687-longest-univalue-path) |
+| [0695-max-area-of-island](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -625,6 +628,7 @@ My leetcode solutions upload
 | [0542-01-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -699,6 +703,7 @@ My leetcode solutions upload
 | [0130-surrounded-regions](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
