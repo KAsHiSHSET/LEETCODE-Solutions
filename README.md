@@ -392,6 +392,7 @@ My leetcode solutions upload
 | [0018-4sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0061-rotate-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -750,6 +751,7 @@ My leetcode solutions upload
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0061-rotate-list) |
 | [0725-split-linked-list-in-parts](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [2411-spiral-matrix-iv](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
