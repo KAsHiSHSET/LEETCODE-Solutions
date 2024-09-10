@@ -750,6 +750,7 @@ My leetcode solutions upload
 ## Linked List
 |  |
 | ------- |
+| [0725-split-linked-list-in-parts](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [2411-spiral-matrix-iv](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
