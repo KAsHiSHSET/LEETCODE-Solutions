@@ -229,6 +229,7 @@ My leetcode solutions upload
 | [2836-neither-minimum-nor-maximum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3221-find-the-peaks](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3221-find-the-peaks) |
 | [3311-ant-on-the-boundary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3311-ant-on-the-boundary) |
+| [3533-snake-in-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3533-snake-in-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -353,6 +354,7 @@ My leetcode solutions upload
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2502-sort-the-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2727-number-of-senior-citizens) |
+| [3533-snake-in-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3567-convert-date-to-binary) |
 ## Greedy
 |  |
@@ -505,6 +507,7 @@ My leetcode solutions upload
 | [2298-count-integers-with-even-digit-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2411-spiral-matrix-iv](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [3311-ant-on-the-boundary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3311-ant-on-the-boundary) |
+| [3533-snake-in-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3533-snake-in-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
