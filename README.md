@@ -353,6 +353,7 @@ My leetcode solutions upload
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2502-sort-the-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2727-number-of-senior-citizens) |
+| [3567-convert-date-to-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3567-convert-date-to-binary) |
 ## Greedy
 |  |
 | ------- |
@@ -383,6 +384,7 @@ My leetcode solutions upload
 | [2032-largest-odd-number-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3567-convert-date-to-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3567-convert-date-to-binary) |
 ## Two Pointers
 |  |
 | ------- |
