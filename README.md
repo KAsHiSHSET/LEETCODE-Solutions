@@ -153,6 +153,7 @@ My leetcode solutions upload
 | [0015-3sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0045-jump-game-ii) |
@@ -301,6 +302,7 @@ My leetcode solutions upload
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0059-spiral-matrix-ii) |
@@ -431,6 +433,7 @@ My leetcode solutions upload
 | [0003-longest-substring-without-repeating-characters](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -720,6 +723,7 @@ My leetcode solutions upload
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0051-n-queens) |
