@@ -355,6 +355,7 @@ My leetcode solutions upload
 | [1250-longest-common-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -448,6 +449,7 @@ My leetcode solutions upload
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2502-sort-the-people) |
@@ -489,6 +491,7 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3311-ant-on-the-boundary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3311-ant-on-the-boundary) |
@@ -502,6 +505,7 @@ My leetcode solutions upload
 | [0371-sum-of-two-integers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0461-hamming-distance) |
 | [0795-k-th-symbol-in-grammar](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
