@@ -1,101 +1,120 @@
-class Node {
-public:
-	int val;
-	Node* next;
-	Node* prev;
-
-	Node(int _val) {
-		this->val = _val;
-		this->prev = this->next = nullptr;
-	}
-};
-
 class MyCircularDeque {
-	Node* head;
-	Node* tail;
-	int capacity;
-	int size;
 public:
+    vector<int> v;
+    int front, back, size, capacity;
+
     MyCircularDeque(int k) {
-        head = new Node(-1);
-        tail = new Node(-1);
-        head->next = tail;
-        tail->prev = head;
-        this->capacity = k;
-        this->size = 0;
+        v = vector<int>(k, -1);
+        front = 0;
+        back = 0;
+        size = 0; // Keeps track of the current number of elements
+        capacity = k;
     }
-    
+
     bool insertFront(int value) {
-        if(size < capacity) {
-        	Node* node = new Node(value);
-	        Node* temp = head->next;
-	        head->next = node;
-	        node->prev = head;
-	        temp->prev = node;
-	        node->next = temp;
-	        size++;
-	        return true;
+        if (isFull()) {
+            return false;
         }
-        return false;
+
+        // Way - 01
+        if (front == 0) {
+            front = capacity - 1; // Wrap around to the end
+        } 
+        else {
+            front--; // Simply decrement front
+        }
+
+        // Way  - 02
+        // front--;
+        // front = capacity + front;
+        // front %= capacity;
+
+        v[front] = value;
+
+        size++;
+        return true;
     }
-    
+
     bool insertLast(int value) {
-        if(size < capacity) {
-        	Node* node = new Node(value);
-        	Node* temp = tail->prev;
-        	tail->prev = node;
-        	node->next = tail;
-        	temp->next = node;
-        	node->prev = temp;
-        	size++;
-        	return true;
+        if (isFull()) {
+            return false;
         }
-        return false;
+
+        v[back] = value;
+
+        // Way - 01
+        if (back == capacity - 1) {
+            back = 0; // Wrap around to the beginning
+        } 
+        else {
+            back++; // Simply increment back
+        }
+
+        // Way - 02
+        // back++;
+        // back %= capacity;
+
+        size++;
+        return true;
     }
-    
+
     bool deleteFront() {
-        if(size) {
-        	Node* delNode = head->next;
-        	Node* nextt = delNode->next;
-        	head->next = nextt;
-        	nextt->prev = head;
-        	delete delNode;
-        	size--;
-        	return true;
+        if (isEmpty()) {
+            return false;
         }
-        return false;
+
+        v[front] = -1;
+
+        // Way - 01
+        if (front == capacity - 1) {
+            front = 0; // Wrap around to the beginning
+        } 
+        else {
+            front++; // Simply increment front
+        }
+        
+        // Way - 02
+        // front++;
+        // front %= capacity;
+
+        size--;
+        return true;
     }
-    
+
     bool deleteLast() {
-        if(size) {
-        	Node* delNode = tail->prev;
-        	Node* prevv = delNode->prev;
-        	prevv->next = tail;
-        	tail->prev = prevv;
-        	delete delNode;
-        	size--;
-        	return true;
+        if (isEmpty()) {
+            return false;
         }
-        return false;
+
+        if (back == 0) {
+            back = capacity - 1; // Wrap around to the end
+        } 
+        else 
+        {
+            back--; // Simply decrement back
+        }
+        v[back] = -1;
+        
+        size--;
+        return true;
     }
-    
+
     int getFront() {
-        if(size)
-        	return head->next->val;
-        return -1;
+        if (isEmpty()){return -1;}
+        return v[front];
     }
-    
+
     int getRear() {
-        if(size)
-        	return tail->prev->val;
-        return -1;
+        if (isEmpty()){return -1;} 
+        if (back == 0) {
+            return v[capacity - 1]; // Wrap around to the last valid element
+        } 
+        else {
+            return v[back - 1]; // Get the last element
+        }
     }
-    
-    bool isEmpty() {
-        return size == 0;
-    }
-    
-    bool isFull() {
-        return size == capacity;
-    }
+
+    bool isEmpty() { return (size == 0); }
+
+    bool isFull() { return (size == capacity); }
 };
