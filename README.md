@@ -233,6 +233,7 @@ My leetcode solutions upload
 | [2411-spiral-matrix-iv](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3221-find-the-peaks](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3221-find-the-peaks) |
@@ -392,6 +393,7 @@ My leetcode solutions upload
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Math
 |  |
@@ -568,6 +570,7 @@ My leetcode solutions upload
 | [0658-find-k-closest-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1127-last-stone-weight) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Quickselect
 |  |
 | ------- |
