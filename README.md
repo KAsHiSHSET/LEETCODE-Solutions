@@ -222,6 +222,7 @@ My leetcode solutions upload
 | [1331-path-with-maximum-gold](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1331-path-with-maximum-gold) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -314,6 +315,7 @@ My leetcode solutions upload
 | [1013-fibonacci-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Matrix
 |  |
@@ -337,6 +339,7 @@ My leetcode solutions upload
 | [1036-rotting-oranges](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1073-number-of-enclaves) |
 | [1331-path-with-maximum-gold](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1331-path-with-maximum-gold) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
