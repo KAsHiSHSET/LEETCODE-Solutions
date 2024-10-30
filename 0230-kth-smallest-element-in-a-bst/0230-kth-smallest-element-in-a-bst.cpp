@@ -18,7 +18,7 @@ public:
         
         inorder(root->left,k);
           count++;
-        if(count==k) {ans=root->val; return;}
+        if(count==k) {ans=root->val; }
         inorder(root->right,k);
         
          return;
