@@ -551,6 +551,7 @@ My leetcode solutions upload
 | [1786-count-the-number-of-consistent-strings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3394-minimum-array-end](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3394-minimum-array-end) |
 ## Simulation
 |  |
 | ------- |
