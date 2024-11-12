@@ -242,6 +242,7 @@ My leetcode solutions upload
 | [2727-number-of-senior-citizens](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3221-find-the-peaks](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3221-find-the-peaks) |
+| [3291-find-if-array-can-be-sorted](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3311-ant-on-the-boundary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3311-ant-on-the-boundary) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3533-snake-in-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3533-snake-in-matrix) |
@@ -530,6 +531,7 @@ My leetcode solutions upload
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2502-sort-the-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
+| [3291-find-if-array-can-be-sorted](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Prefix Sum
 |  |
@@ -553,6 +555,7 @@ My leetcode solutions upload
 | [1786-count-the-number-of-consistent-strings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3291-find-if-array-can-be-sorted](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3394-minimum-array-end) |
 ## Simulation
 |  |
