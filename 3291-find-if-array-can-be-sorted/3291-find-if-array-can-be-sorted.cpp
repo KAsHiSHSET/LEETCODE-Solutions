@@ -2,7 +2,7 @@ class Solution {
 public:
     bool canSortArray(vector<int>& nums) {
         for (int i = 0; i < nums.size(); i++) {
-            for (int j = 0; j < nums.size()-1; j++) {
+            for (int j = 0; j < nums.size()-1-i; j++) {
                 int setCount = countSetBit(nums[j]);
                 int setCount1 = countSetBit(nums[j + 1]);
                 if (setCount == setCount1 && nums[j] > nums[j + 1]) {
