@@ -8,7 +8,7 @@ public:
             int index= it- nums2.begin();
             bool found=false;
             for(int j=index;j<nums2.size();j++){
-                if(element<nums2[j]){
+                if(nums2[index]<nums2[j]){
                 output.push_back(nums2[j]);
                 found=true;
                 break;
