@@ -1,12 +1,14 @@
 class Solution {
 public:
- 
+ //tc - 0(2^n)
+ //sc -0(2^n) + 0(n)
     string sayfunction(int n){
         if(n==1){
             return "1";
         }
         string result="";
         string say = sayfunction(n-1);
+        //har step par aake processing 
         for(int i=0;i<say.length();i++){
             char ch= say[i];
             int count=1;
