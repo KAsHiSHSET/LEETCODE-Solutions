@@ -18,16 +18,16 @@ public:
     //then find for maximum of the frequency how many such digits exists.
     int countLargestGroup(int n) {
         //1->13
-        int maxi=0;
+        int maxifreq=0;
         int count=0;
         unordered_map<int,int> mpp;
         for(int i=1;i<=n;i++){
             int sum=digitsum(i);
             mpp[sum]++;
-            maxi=max(maxi,mpp[sum]);
+            maxifreq=max(maxifreq,mpp[sum]);
         }
         for(auto p:mpp){
-            if(p.second==maxi) count++;
+            if(p.second==maxifreq) count++;
         }
         return count;
 
