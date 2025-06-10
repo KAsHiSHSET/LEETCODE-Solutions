@@ -153,6 +153,7 @@ My leetcode solutions upload
 | [0015-3sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0037-sudoku-solver) |
@@ -628,6 +629,7 @@ My leetcode solutions upload
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0162-find-peak-element) |
