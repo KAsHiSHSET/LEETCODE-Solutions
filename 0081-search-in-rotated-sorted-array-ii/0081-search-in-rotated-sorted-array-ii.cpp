@@ -14,6 +14,7 @@ public:
                 low++;
                 high--;
                continue;
+               //continue to the next iteration
             }
                //left array sorted
            if (nums[low] <= nums[mid]) {
