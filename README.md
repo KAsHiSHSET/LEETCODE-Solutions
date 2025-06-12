@@ -203,6 +203,7 @@ My leetcode solutions upload
 | [0463-island-perimeter](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0682-baseball-game) |
@@ -641,6 +642,7 @@ My leetcode solutions upload
 | [0300-longest-increasing-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0907-koko-eating-bananas) |
