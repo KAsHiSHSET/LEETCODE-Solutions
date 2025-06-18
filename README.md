@@ -252,6 +252,7 @@ My leetcode solutions upload
 | [2727-number-of-senior-citizens](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3221-find-the-peaks](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3221-find-the-peaks) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3311-ant-on-the-boundary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3311-ant-on-the-boundary) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -421,6 +422,7 @@ My leetcode solutions upload
 | [2032-largest-odd-number-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Math
 |  |
@@ -544,6 +546,7 @@ My leetcode solutions upload
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2502-sort-the-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Prefix Sum
