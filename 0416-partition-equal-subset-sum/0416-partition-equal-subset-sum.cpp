@@ -10,10 +10,10 @@ public:
         if(sum==0){
             return true;
         }
-        if(sum<0){
-            return false;
-        }
-        bool a = false;
+        // if(sum<0){
+        //     return false;
+        // }
+         bool a = false;
         if(arr[i]<=sum){
             a=f(arr,i-1,sum-arr[i],dp);
         }
@@ -31,7 +31,27 @@ public:
         }
         sum = sum / 2;
         int n=nums.size();
-        vector<vector<int>> dp(n,vector<int>(sum+1,-1));
-        return f(nums,n-1,sum,dp);
+        vector<vector<bool>> dp(n,vector<bool>(sum+1,0));
+        for(int i=0;i<n;i++){
+            dp[i][0]=true;
+        }
+        for(int i=0;i<n;i++){
+         if(sum==nums[i])
+            dp[0][nums[i]]= true;
+        }
+        for(int i=1;i<n;i++){
+            for(int t=1;t<=sum;t++){
+             bool a= false;
+             if(nums[i]<=t){
+                a=dp[i-1][t-nums[i]];
+
+             }
+             bool b=dp[i-1][t];
+            dp[i][t]=a||b;
+            }
+
+        }
+        return dp[n-1][sum];
+        // return f(nums,n-1,sum,dp);
     }
 };
