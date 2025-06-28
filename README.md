@@ -244,6 +244,7 @@ My leetcode solutions upload
 | [2047-find-a-peak-element-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -511,6 +512,7 @@ My leetcode solutions upload
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -547,6 +549,7 @@ My leetcode solutions upload
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2502-sort-the-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
@@ -614,6 +617,7 @@ My leetcode solutions upload
 | [0658-find-k-closest-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1127-last-stone-weight) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Quickselect
 |  |
