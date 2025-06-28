@@ -17,8 +17,8 @@ public:
         }
         sort(ans.begin(),ans.end());
          for(int i=0;i<ans.size();i++){
-             result.push_back(nums[ans[i]]);
+            ans[i]=nums[ans[i]];
          }
-         return result;
+         return ans;
     }
 };
