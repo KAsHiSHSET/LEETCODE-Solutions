@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum">2204. Find Subsequence of Length K With the Largest Sum</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> and an integer <code>k</code>. You want to find a <strong>subsequence </strong>of <code>nums</code> of length <code>k</code> that has the <strong>largest</strong> sum.</p>
+<h2><a href="https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum">Find Subsequence of Length K With the Largest Sum</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code> and an integer <code>k</code>. You want to find a <strong>subsequence </strong>of <code>nums</code> of length <code>k</code> that has the <strong>largest</strong> sum.</p>
 
 <p>Return<em> </em><em><strong>any</strong> such subsequence as an integer array of length </em><code>k</code>.</p>
 
