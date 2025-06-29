@@ -333,6 +333,7 @@ My leetcode solutions upload
 | [1250-longest-common-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Matrix
 |  |
 | ------- |
@@ -404,6 +405,7 @@ My leetcode solutions upload
 | [2032-largest-odd-number-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2502-sort-the-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3533-snake-in-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3533-snake-in-matrix) |
@@ -425,6 +427,7 @@ My leetcode solutions upload
 | [2032-largest-odd-number-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -821,6 +824,7 @@ My leetcode solutions upload
 | ------- |
 | [0070-climbing-stairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1013-fibonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Backtracking
 |  |
 | ------- |
