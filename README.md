@@ -235,6 +235,7 @@ My leetcode solutions upload
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1720-crawler-log-folder](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -470,6 +471,7 @@ My leetcode solutions upload
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0874-backspace-string-compare](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0874-backspace-string-compare) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Design
 |  |
@@ -551,6 +553,7 @@ My leetcode solutions upload
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -668,6 +671,7 @@ My leetcode solutions upload
 | [0792-binary-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Interactive
