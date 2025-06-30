@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i">3753. Maximum Difference Between Even and Odd Frequency I</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters.</p>
+<h2><a href="https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i">Maximum Difference Between Even and Odd Frequency I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a string <code>s</code> consisting of lowercase English letters.</p>
 
 <p>Your task is to find the <strong>maximum</strong> difference <code>diff = freq(a<sub>1</sub>) - freq(a<sub>2</sub>)</code> between the frequency of characters <code>a<sub>1</sub></code> and <code>a<sub>2</sub></code> in the string such that:</p>
 
