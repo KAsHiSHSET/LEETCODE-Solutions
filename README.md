@@ -322,6 +322,7 @@ My leetcode solutions upload
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0542-01-matrix) |
@@ -387,6 +388,7 @@ My leetcode solutions upload
 | [0273-integer-to-english-words](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0567-permutation-in-string) |
@@ -467,6 +469,7 @@ My leetcode solutions upload
 | [0061-rotate-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0061-rotate-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
