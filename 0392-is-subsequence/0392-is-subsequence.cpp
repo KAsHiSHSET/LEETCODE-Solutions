@@ -12,8 +12,9 @@ public:
                 i++;
                 count++;
             }
-            if(count==s.length()) return true;
+        
             j++;
+            if(count==s.length()) return true;
         }
         return false;
     }
