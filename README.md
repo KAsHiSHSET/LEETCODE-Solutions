@@ -204,6 +204,7 @@ My leetcode solutions upload
 | [0455-assign-cookies](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0494-target-sum) |
+| [0500-keyboard-row](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -395,6 +396,7 @@ My leetcode solutions upload
 | [0392-is-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0500-keyboard-row](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -521,6 +523,7 @@ My leetcode solutions upload
 | [0350-intersection-of-two-arrays-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0500-keyboard-row](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
