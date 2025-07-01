@@ -183,6 +183,7 @@ My leetcode solutions upload
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -517,6 +518,7 @@ My leetcode solutions upload
 | [0049-group-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -885,6 +887,7 @@ My leetcode solutions upload
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0547-number-of-provinces) |
