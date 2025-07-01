@@ -419,6 +419,7 @@ My leetcode solutions upload
 | [2727-number-of-senior-citizens](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3533-snake-in-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3567-convert-date-to-binary) |
+| [3617-find-the-original-typed-string-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Greedy
 |  |
