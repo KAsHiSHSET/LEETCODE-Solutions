@@ -467,6 +467,7 @@ My leetcode solutions upload
 | [2298-count-integers-with-even-digit-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3567-convert-date-to-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3567-convert-date-to-binary) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -610,6 +611,7 @@ My leetcode solutions upload
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3394-minimum-array-end) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
@@ -628,6 +630,7 @@ My leetcode solutions upload
 | [2411-spiral-matrix-iv](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [3311-ant-on-the-boundary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3311-ant-on-the-boundary) |
 | [3533-snake-in-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3533-snake-in-matrix) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -848,6 +851,7 @@ My leetcode solutions upload
 | [0795-k-th-symbol-in-grammar](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
