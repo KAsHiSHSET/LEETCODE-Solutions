@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome">Minimum Insertion Steps to Make a String Palindrome</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>Given a string <code>s</code>. In one step you can insert any character at any index of the string.</p>
+<h2><a href="https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome">1437. Minimum Insertion Steps to Make a String Palindrome</a></h2><h3>Hard</h3><hr><p>Given a string <code>s</code>. In one step you can insert any character at any index of the string.</p>
 
 <p>Return <em>the minimum number of steps</em> to make <code>s</code>&nbsp;palindrome.</p>
 
