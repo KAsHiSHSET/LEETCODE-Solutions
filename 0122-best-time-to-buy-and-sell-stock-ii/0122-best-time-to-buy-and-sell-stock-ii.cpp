@@ -22,26 +22,31 @@ public:
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
         // vector<vector<int>> dp(n, vector<int>(2, -1)); // Memoization table
-        // return helper(0, prices, 1, dp); // Start from index 0 with the option to buy
-        vector<vector<long>> dpmem(n+1,vector<long>(2,0));
-        dpmem[n][0]=dpmem[n][1]=0;
+        // return helper(0, prices, 1, dp); // Start from index 0 with the option to buy 
+        //goes from 0 to n-1 and starts with opportunity to buy 
+        // vector<vector<long>> dpmem(n+1,vector<long>(2,0));//tabulation table
+        vector<int> curr(2,0);
+        vector<int> ahead(2,0);
+        // dpmem[n][0]=dpmem[n][1]=0;
         for(int ind=n-1;ind>=0;ind--){
             for(int buy=0;buy<=1;buy++){
                 int profit = 0;
         if(buy) {
             // Choice to buy or skip
-            profit = max(-prices[ind] + dpmem[ind + 1][0],
-                         0 + dpmem[ind + 1][1]);
+            //ahead[0] and ahead[1] means buy or not
+            profit = max(-prices[ind] + ahead[0],
+                         0 + ahead[1]);
         } else {
             // Choice to sell or skip
-            profit = max(prices[ind] + dpmem[ind + 1][1], 
-                         0 + dpmem[ind + 1][0]);
+            profit = max(prices[ind] + ahead[1], 
+                         0 + ahead[0]);
         }
         
-      dpmem[ind][buy] = profit; // Store result in dp array 
+      curr[buy] = profit; // Store result in dp array 
             }
+            ahead=curr;
         }
 
-   return dpmem[0][1];
+   return curr[1];
     }
 };
