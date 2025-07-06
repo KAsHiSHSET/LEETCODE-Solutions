@@ -196,6 +196,7 @@ My leetcode solutions upload
 | [0215-kth-largest-element-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0322-coin-change) |
@@ -464,6 +465,7 @@ My leetcode solutions upload
 | [0070-climbing-stairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0539-minimum-time-difference](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0539-minimum-time-difference) |
@@ -533,6 +535,7 @@ My leetcode solutions upload
 | [0208-implement-trie-prefix-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -577,6 +580,7 @@ My leetcode solutions upload
 | [0215-kth-largest-element-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0414-third-maximum-number) |
@@ -613,6 +617,7 @@ My leetcode solutions upload
 | [0067-add-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0461-hamming-distance) |
@@ -706,6 +711,7 @@ My leetcode solutions upload
 | [0162-find-peak-element](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0374-guess-number-higher-or-lower) |
