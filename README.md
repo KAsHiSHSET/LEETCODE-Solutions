@@ -194,6 +194,7 @@ My leetcode solutions upload
 | [0200-number-of-islands](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -530,6 +531,7 @@ My leetcode solutions upload
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -573,6 +575,7 @@ My leetcode solutions upload
 | [0049-group-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -682,6 +685,7 @@ My leetcode solutions upload
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0948-sort-an-array) |
