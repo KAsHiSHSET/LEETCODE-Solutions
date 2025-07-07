@@ -210,6 +210,7 @@ My leetcode solutions upload
 | [0463-island-perimeter](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0539-minimum-time-difference) |
@@ -287,6 +288,7 @@ My leetcode solutions upload
 | [0155-min-stack](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0739-daily-temperatures) |
@@ -303,6 +305,7 @@ My leetcode solutions upload
 | [0042-trapping-rain-water](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0937-online-stock-span) |
 ## Dynamic Programming
@@ -542,6 +545,7 @@ My leetcode solutions upload
 | [0350-intersection-of-two-arrays-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0594-longest-harmonious-subsequence) |
