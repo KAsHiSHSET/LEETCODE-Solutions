@@ -21,6 +21,7 @@ public:
              return false;
            }
         }
+        //string also finished and stack is also empty
         if(st.empty())return true;
         else return false;
      
