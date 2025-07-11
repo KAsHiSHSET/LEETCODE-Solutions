@@ -15,6 +15,7 @@ public:
           }
           //if decreasing order is maintained then pushback
           dq.push_back(i);
+          //atlest scan the full window , find the smallest in first window first , thne push it into.
           if(i>=k-1) ans.push_back(nums[dq.front()]);
        }
        return ans;
