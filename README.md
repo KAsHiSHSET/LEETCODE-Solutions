@@ -784,6 +784,7 @@ My leetcode solutions upload
 | [0784-insert-into-a-binary-search-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -822,6 +823,7 @@ My leetcode solutions upload
 | [1030-smallest-string-starting-from-leaf](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1073-number-of-enclaves](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -849,6 +851,7 @@ My leetcode solutions upload
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1073-number-of-enclaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -885,6 +888,7 @@ My leetcode solutions upload
 | [0784-insert-into-a-binary-search-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
