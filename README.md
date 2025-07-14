@@ -486,6 +486,7 @@ My leetcode solutions upload
 | [0650-2-keys-keyboard](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0795-k-th-symbol-in-grammar](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -983,6 +984,7 @@ My leetcode solutions upload
 | [0061-rotate-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0061-rotate-list) |
 | [0725-split-linked-list-in-parts](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0859-design-circular-deque) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2411-spiral-matrix-iv](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
