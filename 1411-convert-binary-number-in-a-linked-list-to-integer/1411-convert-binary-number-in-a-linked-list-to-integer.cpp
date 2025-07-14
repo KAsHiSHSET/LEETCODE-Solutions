@@ -10,6 +10,8 @@
  */
 class Solution {
 public:
+//0(n)->tc -> traversal of linked list
+//0(1)-> sc 
     int getDecimalValue(ListNode* head) {
         ListNode* temp=head;
         int ans=0;
