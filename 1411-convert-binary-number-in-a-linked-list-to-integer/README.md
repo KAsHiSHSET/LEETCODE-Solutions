@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer">1411. Convert Binary Number in a Linked List to Integer</a></h2><h3>Easy</h3><hr><p>Given <code>head</code> which is a reference node to a singly-linked list. The value of each node in the linked list is either <code>0</code> or <code>1</code>. The linked list holds the binary representation of a number.</p>
+<h2><a href="https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer">Convert Binary Number in a Linked List to Integer</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given <code>head</code> which is a reference node to a singly-linked list. The value of each node in the linked list is either <code>0</code> or <code>1</code>. The linked list holds the binary representation of a number.</p>
 
 <p>Return the <em>decimal value</em> of the number in the linked list.</p>
 
