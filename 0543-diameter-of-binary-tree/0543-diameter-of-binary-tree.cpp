@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-  
+  //at a particular node , we would explore left and right , then add left and right .
     int helper(TreeNode* root,int &maxi){
        if(root==NULL) return 0;
        int left=helper(root->left,maxi);
