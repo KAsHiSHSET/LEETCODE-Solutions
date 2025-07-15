@@ -1,49 +1,45 @@
-// class Solution {
-// public:
-//     int maxScore(vector<int>& cardPoints, int k) {
-//     int left=0;
-//     int right=cardPoints.size()-1;
-//     int leftsum=0;
-//     int rightsum=0;
-//     int maxi=0;
-//     if(cardPoints.size()==k){
-//         maxi=accumulate(cardPoints.begin(),cardPoints.end(),0);
-//         return maxi;
-//     }
-//     for(int i=0;i<k;i++){
-//         leftsum=leftsum+cardPoints[i];
-//         left++;
-//     }
-//     left--;
-//     while(left!=0&&right!=(cardPoints.size()-k)){
-//         int summation=leftsum+rightsum;
-//         maxi=max(summation,maxi);
-//         summation=0;
-//         leftsum=leftsum-cardPoints[left];
-//         left--;
-//         rightsum=rightsum+cardPoints[right];  
-//         right--;
-//         if(left==0&&right==(cardPoints.size()-k)) break;
-//     }
-//     return maxi;
-// }
-// };
+//tc -> 0(k)
+//sc-> 0(1)
 class Solution {
 public:
     int maxScore(vector<int>& cardPoints, int k) {
-      
-        int sum=0;
-        for(int i=0;i<k;i++){
-            sum+=cardPoints[i];
+        int n = cardPoints.size();
+        int total = 0;
+
+        // Take first k cards from the left
+        for (int i = 0; i < k; ++i) {
+            total += cardPoints[i];
         }
-        int ans=sum;
-        k--;
-        int i=cardPoints.size()-1;
-        while(k>=0){
-            sum=sum-cardPoints[k--]+cardPoints[i--];
-           
-            ans=max(ans,sum);
+
+        int maxPoints = total;
+
+        // Now shift the window: take from right end and remove from left
+        for (int i = 1; i <= k; ++i) {
+            total -= cardPoints[k - i];             // remove from left
+            total += cardPoints[n - i];             // add from right
+            maxPoints = max(maxPoints, total);
         }
-        return ans;
+
+        return maxPoints;
     }
 };
+
+// class Solution {
+// public:
+//     int maxScore(vector<int>& cardPoints, int k) {
+      
+//         int sum=0;
+//         for(int i=0;i<k;i++){
+//             sum+=cardPoints[i];
+//         }
+//         int ans=sum;
+//         k--;
+//         int i=cardPoints.size()-1;
+//         while(k>=0){
+//             sum=sum-cardPoints[k--]+cardPoints[i--];
+           
+//             ans=max(ans,sum);
+//         }
+//         return ans;
+//     }
+// };
