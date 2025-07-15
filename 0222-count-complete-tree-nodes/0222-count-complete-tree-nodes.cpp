@@ -16,6 +16,7 @@ public:
          if(root==NULL){
             return ;
         }
+        //standing on the gievn nde, it couts if the node is not null.
         count++;
           helper(root->left);
           helper(root->right);
