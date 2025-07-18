@@ -16,10 +16,11 @@ public:
         queue<pair<TreeNode*,int>> q;
         q.push({root,0});
         long int ans=0;
+        //this is a kind of level order.
         while(!q.empty()){
            int size=q.size();
            
-           long int mini=q.front().second;
+         long int mini=q.front().second;
           long  int right,left;
            for(int i=0;i<size;i++){
 
@@ -36,6 +37,8 @@ public:
              } 
           
         }
+        //at a node , calculate the right left differnce , then
+        //calcumate for another level.
         ans=max(ans,right-left+1);
         
     }
