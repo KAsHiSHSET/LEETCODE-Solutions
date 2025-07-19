@@ -4,7 +4,9 @@ public:
     long long int hoursRequired(std::vector<int>& arr, int k) {
         int n = arr.size();
       long long int total_hours = 0;
+      //calcukate fr the all emelent in the array .
         for (int i = 0; i < n; i++) {
+
             total_hours +=  ceil((double)arr[i]/(double)k); 
         }
         return total_hours;
@@ -28,3 +30,4 @@ public:
         return low;
     }
 };
+//tc - 0(N) * 0( log2 (maxelement))
