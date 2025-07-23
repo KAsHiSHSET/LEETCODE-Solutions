@@ -1014,4 +1014,8 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
