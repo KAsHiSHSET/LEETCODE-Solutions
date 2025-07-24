@@ -2,7 +2,7 @@
 SELECT 
     d.Name AS Department,      -- Selects department name
     e.Name AS Employee,        -- Selects employee name
-    e.Salary                   -- Selects employee salary
+    e.Salary  AS Salary               -- Selects employee salary
 FROM 
     Employee e                 -- Main table is Employee
 JOIN 
