@@ -12,3 +12,4 @@ public:
         return num1-num2;
     }
 };
+//tc-> 0(1)
