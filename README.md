@@ -451,6 +451,7 @@ My leetcode solutions upload
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2502-sort-the-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2502-sort-the-people) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2887-sort-vowels-in-a-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3195-separate-black-and-white-balls) |
@@ -478,6 +479,7 @@ My leetcode solutions upload
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -532,6 +534,7 @@ My leetcode solutions upload
 | [0874-backspace-string-compare](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0874-backspace-string-compare) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3195-separate-black-and-white-balls](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Design
 |  |
