@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/separate-black-and-white-balls">3195. Separate Black and White Balls</a></h2><h3>Medium</h3><hr><p>There are <code>n</code> balls on a table, each ball has a color black or white.</p>
+<h2><a href="https://leetcode.com/problems/separate-black-and-white-balls">Separate Black and White Balls</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>There are <code>n</code> balls on a table, each ball has a color black or white.</p>
 
 <p>You are given a <strong>0-indexed</strong> binary string <code>s</code> of length <code>n</code>, where <code>1</code> and <code>0</code> represent black and white balls, respectively.</p>
 
