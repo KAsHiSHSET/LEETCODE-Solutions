@@ -261,6 +261,7 @@ My leetcode solutions upload
 | [1786-count-the-number-of-consistent-strings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1961-maximum-ice-cream-bars](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2047-find-a-peak-element-ii) |
@@ -480,6 +481,7 @@ My leetcode solutions upload
 | [0890-lemonade-change](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1961-maximum-ice-cream-bars](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -651,6 +653,7 @@ My leetcode solutions upload
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1961-maximum-ice-cream-bars](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2502-sort-the-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2502-sort-the-people) |
@@ -758,6 +761,7 @@ My leetcode solutions upload
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1961-maximum-ice-cream-bars](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
