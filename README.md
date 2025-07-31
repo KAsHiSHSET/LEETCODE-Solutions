@@ -455,6 +455,7 @@ My leetcode solutions upload
 | [2727-number-of-senior-citizens](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2887-sort-vowels-in-a-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3195-separate-black-and-white-balls) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3533-snake-in-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3617-find-the-original-typed-string-i) |
@@ -509,6 +510,7 @@ My leetcode solutions upload
 | [2298-count-integers-with-even-digit-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3567-convert-date-to-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3567-convert-date-to-binary) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
@@ -750,6 +752,7 @@ My leetcode solutions upload
 | [1510-find-lucky-integer-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
 |  |
