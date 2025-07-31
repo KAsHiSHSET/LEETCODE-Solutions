@@ -1068,6 +1068,7 @@ My leetcode solutions upload
 | [0577-employee-bonus](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0577-employee-bonus) |
 | [1153-product-sales-analysis-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1258-article-views-i) |
+| [1827-invalid-tweets](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1827-invalid-tweets) |
 ## Bitmask
 |  |
 | ------- |
