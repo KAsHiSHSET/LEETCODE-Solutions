@@ -247,6 +247,7 @@ My leetcode solutions upload
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -596,6 +597,7 @@ My leetcode solutions upload
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
