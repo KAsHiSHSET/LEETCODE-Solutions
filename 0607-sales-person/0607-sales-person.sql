@@ -19,3 +19,4 @@ where s.name not in
 -- For each order, you attach the company info.
 
 -- If the order's com_id doesn't match any company, c.name will be NULL.
+-- If c.name is NULL (i.e., no matching company or no order), that row will not satisfy c.name = 'Red' → and thus be filtered out.
