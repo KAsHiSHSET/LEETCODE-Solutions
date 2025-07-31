@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-ice-cream-bars">1961. Maximum Ice Cream Bars</a></h2><h3>Medium</h3><hr><p>It is a sweltering summer day, and a boy wants to buy some ice cream bars.</p>
+<h2><a href="https://leetcode.com/problems/maximum-ice-cream-bars">Maximum Ice Cream Bars</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>It is a sweltering summer day, and a boy wants to buy some ice cream bars.</p>
 
 <p>At the store, there are <code>n</code> ice cream bars. You are given an array <code>costs</code> of length <code>n</code>, where <code>costs[i]</code> is the price of the <code>i<sup>th</sup></code> ice cream bar in coins. The boy initially has <code>coins</code> coins to spend, and he wants to buy as many ice cream bars as possible.&nbsp;</p>
 
