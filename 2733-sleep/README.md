@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sleep">Sleep</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given&nbsp;a positive integer <code>millis</code>, write an asynchronous function that sleeps for <code>millis</code>&nbsp;milliseconds. It can resolve any value.</p>
+<h2><a href="https://leetcode.com/problems/sleep">2733. Sleep</a></h2><h3>Easy</h3><hr><p>Given&nbsp;a positive integer <code>millis</code>, write an asynchronous function that sleeps for <code>millis</code>&nbsp;milliseconds. It can resolve any value.</p>
 
 <p><strong>Note</strong> that <em>minor</em> deviation from <code>millis</code> in the actual sleep duration is acceptable.</p>
 
