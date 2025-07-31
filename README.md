@@ -359,6 +359,7 @@ My leetcode solutions upload
 | [0650-2-keys-keyboard](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0943-sum-of-subarray-minimums](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1013-fibonacci-number) |
@@ -661,6 +662,7 @@ My leetcode solutions upload
 | [0371-sum-of-two-integers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0461-hamming-distance) |
 | [0795-k-th-symbol-in-grammar](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -875,6 +877,7 @@ My leetcode solutions upload
 | [0695-max-area-of-island](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1073-number-of-enclaves) |
@@ -978,6 +981,7 @@ My leetcode solutions upload
 | [0207-course-schedule](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1038,4 +1042,8 @@ My leetcode solutions upload
 | [0196-delete-duplicate-emails](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0577-employee-bonus) |
+## Bitmask
+|  |
+| ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
