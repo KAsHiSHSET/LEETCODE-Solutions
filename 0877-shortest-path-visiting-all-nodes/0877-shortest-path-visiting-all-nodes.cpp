@@ -28,7 +28,7 @@ public:
         set<P> vis;
         
 
-        int allVisitedState = (1 << n) - 1; // if all nodes visited then
+        int allVisitedState = (1 << n) - 1; // if all nodes visited then// pow(2,n)
             
         for(int i = 0; i < n; i++) {
             int maskValue = (1 << i);
@@ -54,11 +54,11 @@ public:
                 int currMask = curr.second;
                 
                 for(auto &adj: graph[currNode]) {
-                    int nextMask = currMask | (1 << adj);
+                    int nextMask = currMask | (1 << adj); //or of the current and adjacent node is stored as nextmask into the que and the set.
                     
                     if(nextMask == allVisitedState)
                         return result;
-                    
+                    //if the node not found , store it inside the queue
                     if(vis.find({adj, nextMask}) == vis.end()) {
                         vis.insert({adj, nextMask});
                         que.push({adj, nextMask});                      
