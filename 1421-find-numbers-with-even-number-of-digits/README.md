@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits">Find Numbers with Even Number of Digits</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an array <code>nums</code> of integers, return how many of them contain an <strong>even number</strong> of digits.</p>
+<h2><a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits">1421. Find Numbers with Even Number of Digits</a></h2><h3>Easy</h3><hr><p>Given an array <code>nums</code> of integers, return how many of them contain an <strong>even number</strong> of digits.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
