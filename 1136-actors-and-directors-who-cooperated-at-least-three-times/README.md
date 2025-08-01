@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times">1136. Actors and Directors Who Cooperated At Least Three Times</a></h2><h3>Easy</h3><hr><p>Table: <code>ActorDirector</code></p>
+<h2><a href="https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times">Actors and Directors Who Cooperated At Least Three Times</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>ActorDirector</code></p>
 
 <pre>
 +-------------+---------+
