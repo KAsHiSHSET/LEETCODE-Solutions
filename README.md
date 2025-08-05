@@ -286,6 +286,7 @@ My leetcode solutions upload
 | [3351-maximize-happiness-of-selected-children](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3533-snake-in-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3533-snake-in-matrix) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -712,6 +713,7 @@ My leetcode solutions upload
 | [3311-ant-on-the-boundary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3311-ant-on-the-boundary) |
 | [3533-snake-in-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3533-snake-in-matrix) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -792,6 +794,7 @@ My leetcode solutions upload
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2047-find-a-peak-element-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -1096,4 +1099,12 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
