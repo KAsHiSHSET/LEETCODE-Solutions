@@ -15,9 +15,10 @@ public:
     int count=0;
   void inorder(TreeNode* root,int k){
         if(root==NULL) return ;
-        
+        //left root right
         inorder(root->left,k);
           count++;
+        //if th count is equal to k, 
         if(count==k) {ans=root->val; }
         inorder(root->right,k);
         
