@@ -20,7 +20,8 @@ public:
             q.push(node->left);
             q.push(node->right);
         }
-        while(!q.empty() && q.front() == NULL){
+        //pop only when the q.front is null.
+        while(!q.empty() && q.front()== NULL){
             q.pop();
         }
         return q.empty();
