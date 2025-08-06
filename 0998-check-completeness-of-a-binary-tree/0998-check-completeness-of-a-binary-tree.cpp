@@ -24,6 +24,7 @@ public:
         while(!q.empty() && q.front()== NULL){
             q.pop();
         }
+        //if there iss no other element after the null and all of them are popped , then if the q should b empty.
         return q.empty();
     }
 };
