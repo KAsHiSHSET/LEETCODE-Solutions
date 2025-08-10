@@ -164,6 +164,7 @@ My leetcode solutions upload
 | [0048-rotate-image](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0056-merge-intervals) |
@@ -334,6 +335,7 @@ My leetcode solutions upload
 | [0042-trapping-rain-water](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0063-unique-paths-ii) |
@@ -718,6 +720,7 @@ My leetcode solutions upload
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0191-number-of-1-bits) |
