@@ -559,11 +559,13 @@ My leetcode solutions upload
 | [0208-implement-trie-prefix-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -736,6 +738,7 @@ My leetcode solutions upload
 | [0347-top-k-frequent-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0658-find-k-closest-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1127-last-stone-weight) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -840,6 +843,7 @@ My leetcode solutions upload
 | [0775-n-ary-tree-preorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -956,6 +960,7 @@ My leetcode solutions upload
 | [0687-longest-univalue-path](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0687-longest-univalue-path) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1008,6 +1013,7 @@ My leetcode solutions upload
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Union Find
 |  |
 | ------- |
