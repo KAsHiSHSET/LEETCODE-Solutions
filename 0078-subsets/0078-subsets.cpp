@@ -7,9 +7,9 @@ public:
       return;
        }
      ds.push_back(arr[index]);
-     printsubseq(index+1,arr,ds);
+     printsubseq(index+1,arr,ds);//take 
      ds.pop_back();
-    printsubseq(index+1,arr,ds);
+    printsubseq(index+1,arr,ds); //non take 
 }
     vector<vector<int>> subsets(vector<int>& nums) {
         int index=0;
@@ -18,3 +18,5 @@ public:
         return ans;
     }
 };
+// tc -> 0(2^n * n)
+// sc-> 0(2^n * n)
