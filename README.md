@@ -174,6 +174,7 @@ My leetcode solutions upload
 | [0064-minimum-path-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -686,6 +687,7 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0268-missing-number) |
@@ -996,6 +998,7 @@ My leetcode solutions upload
 | [0040-combination-sum-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0131-palindrome-partitioning) |
