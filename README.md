@@ -461,6 +461,7 @@ My leetcode solutions upload
 | [1524-string-matching-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -622,6 +623,7 @@ My leetcode solutions upload
 | [1510-find-lucky-integer-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1813-maximum-erasure-value) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2502-sort-the-people) |
@@ -787,6 +789,7 @@ My leetcode solutions upload
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1961-maximum-ice-cream-bars](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
