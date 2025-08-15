@@ -23,3 +23,15 @@ public:
         return ans;
     }
 };
+//tc
+// Let u = number of unique elements (u ≤ n).
+
+// Each push/pop in a heap of size at most k costs O(log k).
+
+// Total: O(u log k) → in worst case u = n, so O(n log k).
+
+//sc
+
+// unordered_map stores up to n key-value pairs → O(n).
+
+// min_heap stores at most k pairs → O(k).
