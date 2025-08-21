@@ -225,6 +225,7 @@ My leetcode solutions upload
 | [0542-01-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0682-baseball-game) |
@@ -490,6 +491,7 @@ My leetcode solutions upload
 | [0409-longest-palindrome](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0876-hand-of-straights) |
@@ -613,6 +615,7 @@ My leetcode solutions upload
 | [0500-keyboard-row](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-hand-of-straights](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -669,6 +672,7 @@ My leetcode solutions upload
 | [0455-assign-cookies](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0876-hand-of-straights](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0948-sort-an-array) |
@@ -759,6 +763,7 @@ My leetcode solutions upload
 | [0347-top-k-frequent-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0948-sort-an-array) |
@@ -794,6 +799,7 @@ My leetcode solutions upload
 | [0347-top-k-frequent-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0948-sort-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
