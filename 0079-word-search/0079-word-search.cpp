@@ -19,6 +19,7 @@ int m,n;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 int index=0;
+                //har block se shuru karoge recusrion call , jaha par lagta hai ki mill gyi vaha return ans.
                 bool ans=solve(board,word,i,j,index);
                 if(ans) return true;
                 else{
