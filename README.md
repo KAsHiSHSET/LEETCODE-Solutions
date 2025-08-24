@@ -189,6 +189,7 @@ My leetcode solutions upload
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0162-find-peak-element) |
@@ -708,6 +709,7 @@ My leetcode solutions upload
 | [0067-add-binary](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0268-missing-number) |
