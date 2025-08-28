@@ -24,35 +24,34 @@ class disjoint{
         int ulp_u = findupar(u);
         int ulp_v= findupar(v);
         if(ulp_u==ulp_v) return;
-        if(rank[ulp_v]<rank[ulp_u]){
-            parent[ulp_u]=ulp_v;
-        }
-        else if(rank[ulp_v]<rank[ulp_u]){
-            parent[ulp_v]=ulp_u;
-
-        }
-        else{
-            //both ranks are same , attach any one to any other 
-            parent[ulp_v]=ulp_u;
-            rank[ulp_u]++;
-        }
-    }
-    void unionbysize(int u,int v){
-        int ulp_u = findupar(u);
-        int ulp_v= findupar(v);
-        if(ulp_u==ulp_v) return; 
         if(rank[ulp_u] < rank[ulp_v]) {
-    parent[ulp_u] = ulp_v;
-}
-else if(rank[ulp_v] < rank[ulp_u]) {
-    parent[ulp_v] = ulp_u;
-}
-else {
-    parent[ulp_v] = ulp_u;
-    rank[ulp_u]++;
+            parent[ulp_u] = ulp_v;
+         }
+        else if(rank[ulp_v] < rank[ulp_u]) {
+            parent[ulp_v] = ulp_u;
+         }
+        else {
+             parent[ulp_v] = ulp_u;
+              rank[ulp_u]++;
+        }
+
+        
+    }
+    void unionbysize(int u, int v) {
+    int ulp_u = findupar(u);
+    int ulp_v = findupar(v);
+    if(ulp_u == ulp_v) return; // already in same set
+
+    if(size[ulp_u] <= size[ulp_v]) {
+        parent[ulp_u] = ulp_v;
+        size[ulp_v] += size[ulp_u];  // increase size of bigger set
+    } 
+    else {
+        parent[ulp_v] = ulp_u;
+        size[ulp_u] += size[ulp_v];
+    }
 }
 
-    }
 };
 class Solution {
 public:
