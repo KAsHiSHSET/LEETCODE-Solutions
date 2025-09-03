@@ -15,10 +15,10 @@ public:
         if(root==NULL) return NULL;
         if(root->val==val) return root;
         if(root->val>val){
-          return helper(root->left,val);
+          root = helper(root->left,val);
         }
         else{
-        return helper(root->right,val);
+           root = helper(root->right,val);
         }
         return root;
     }
