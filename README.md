@@ -1101,6 +1101,7 @@ My leetcode solutions upload
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0061-rotate-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0859-design-circular-deque) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
