@@ -567,6 +567,7 @@ My leetcode solutions upload
 | [0874-backspace-string-compare](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0874-backspace-string-compare) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3195-separate-black-and-white-balls](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3195-separate-black-and-white-balls) |
@@ -1113,6 +1114,7 @@ My leetcode solutions upload
 | [0725-split-linked-list-in-parts](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0859-design-circular-deque) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
