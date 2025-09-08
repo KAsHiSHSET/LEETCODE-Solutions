@@ -16,15 +16,17 @@ public:
         }
         ListNode* fast=head;
         ListNode* slow=head;
-        
+        //waise toh initially head par domo 
+        //par fast two step ahead
+        //correction -> pehle hi head ko 2 points se aaage move kara do 
        
         fast=fast->next->next;
         while(fast!=NULL&&fast->next!=NULL){
          slow=slow->next;
          fast=fast->next->next;
         }
-      ListNode* mid=slow->next;
-        slow->next=slow->next->next;
+      ListNode* mid=slow->next; // mid will be slow pointer ka next 
+        slow->next=mid->next;
      delete mid;
         return head;
     }
