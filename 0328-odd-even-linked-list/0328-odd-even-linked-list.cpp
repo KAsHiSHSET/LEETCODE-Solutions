@@ -18,15 +18,30 @@ public:
         ListNode* even=head->next;
         ListNode* evenhead=head->next;
         
-        while(even!=NULL&&even->next!=NULL){
-            odd->next=odd->next->next;
-            even->next=even->next->next;
-            odd=odd->next;
-            even=even->next;
-        }
-        odd->next=evenhead;
+        // while(even!=NULL&&even->next!=NULL){
+        //     odd->next=odd->next->next;
+        //     even->next=even->next->next;
+        //     odd=odd->next;
+        //     even=even->next;
+        // }
+        // odd->next=evenhead;
 
-        return head;
-        
+        // return head;
+
+while (even != NULL && even->next != NULL) {
+    // Link odd list
+    odd->next = even->next;  
+    odd = odd->next;
+
+    // Link even list
+    even->next = odd->next; 
+    even = even->next;
+}
+
+
+odd->next = evenhead;
+
+return head;
+
     }
 };
