@@ -314,6 +314,7 @@ My leetcode solutions upload
 | [0173-binary-search-tree-iterator](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0739-daily-temperatures) |
@@ -376,6 +377,7 @@ My leetcode solutions upload
 | [0542-01-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0650-2-keys-keyboard) |
+| [0678-valid-parenthesis-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0806-domino-and-tromino-tiling) |
@@ -454,6 +456,7 @@ My leetcode solutions upload
 | [0557-reverse-words-in-a-string-iii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -501,6 +504,7 @@ My leetcode solutions upload
 | [0605-can-place-flowers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0678-valid-parenthesis-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0890-lemonade-change) |
