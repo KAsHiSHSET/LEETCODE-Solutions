@@ -189,6 +189,7 @@ My leetcode solutions upload
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -491,6 +492,7 @@ My leetcode solutions upload
 | [0045-jump-game-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0605-can-place-flowers) |
