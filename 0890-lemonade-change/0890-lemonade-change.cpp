@@ -1,33 +1,36 @@
 class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
-        int five=0;
-        int ten=0;
-        int twenty=0;
-        for(int i=0;i<bills.size();i++){
-            if(bills[i]==5) five++;
+       int five=0;
+       int ten=0;
+     
+       for(int i=0;i<bills.size();i++){
+            if(bills[i]==5) five=five+1;
             else if(bills[i]==10){
-                if(five){
-                ten++;
-                five--;}
+                ten =ten+1;
+                if(five!=0){
+                    five= five-1;
+                }
                 else{
+                    //i cant return anything as i dont have 5
                     return false;
                 }
             }
-            else if(bills[i]==20){
-                twenty++;
-                if(ten!=0&&five!=0){
-                    ten--;
-                    five--;
+            else{
+               
+                if(ten && five){
+                  ten=ten-1;
+                  five=five-1;
+
                 }
                 else if(five>=3){
                     five=five-3;
                 }
-                else {
+                else{
                     return false;
                 }
             }
-        }
-        return true;
+       }
+       return true;
     }
 };
