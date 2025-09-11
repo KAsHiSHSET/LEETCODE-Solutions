@@ -23,7 +23,7 @@ public:
                 intervals.erase(intervals.begin() + i + 1);
           }
           else{
-            //tc->0(n) sc-> 0(1)
+            //tc->0(n)+0(nlogn) sc-> 0(1)
             //only move when the upar waaaali condition becomes false
             //which is when intervals[i][1]< intervals[i+1][0] not overlapping
             //then we can check for next one.
