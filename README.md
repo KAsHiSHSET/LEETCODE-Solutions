@@ -271,6 +271,7 @@ My leetcode solutions upload
 | [1720-crawler-log-folder](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1813-maximum-erasure-value) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1961-maximum-ice-cream-bars](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
