@@ -228,6 +228,7 @@ My leetcode solutions upload
 | [0539-minimum-time-difference](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0621-task-scheduler) |
@@ -639,6 +640,7 @@ My leetcode solutions upload
 | [0451-sort-characters-by-frequency](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0621-task-scheduler) |
@@ -723,6 +725,7 @@ My leetcode solutions upload
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
