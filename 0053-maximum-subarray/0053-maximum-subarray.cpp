@@ -1,5 +1,6 @@
 class Solution {
 public:
+//kadane's algorithm 
     int maxSubArray(vector<int>& nums) {
         int i=0;
         int j=0;
