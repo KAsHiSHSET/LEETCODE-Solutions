@@ -17,3 +17,5 @@ public:
         return ans;
     }
 };
+//tc-> 0(n)
+//sc-> 0(n) ->no auxiliary space just the space for output array 
