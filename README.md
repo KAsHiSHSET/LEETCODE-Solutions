@@ -221,6 +221,7 @@ My leetcode solutions upload
 | [0455-assign-cookies](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0500-keyboard-row) |
@@ -787,6 +788,7 @@ My leetcode solutions upload
 | [0215-kth-largest-element-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -814,6 +816,7 @@ My leetcode solutions upload
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -860,6 +863,7 @@ My leetcode solutions upload
 | [0300-longest-increasing-subsequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0493-reverse-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0792-binary-search) |
@@ -1209,13 +1213,19 @@ My leetcode solutions upload
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Geometry
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/1014-k-closest-points-to-origin) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
