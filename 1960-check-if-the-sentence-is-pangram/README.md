@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram">1960. Check if the Sentence Is Pangram</a></h2><h3>Easy</h3><hr><p>A <strong>pangram</strong> is a sentence where every letter of the English alphabet appears at least once.</p>
+<h2><a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram">Check if the Sentence Is Pangram</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>A <strong>pangram</strong> is a sentence where every letter of the English alphabet appears at least once.</p>
 
 <p>Given a string <code>sentence</code> containing only lowercase English letters, return<em> </em><code>true</code><em> if </em><code>sentence</code><em> is a <strong>pangram</strong>, or </em><code>false</code><em> otherwise.</em></p>
 
