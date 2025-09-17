@@ -183,6 +183,7 @@ My leetcode solutions upload
 | [0085-maximal-rectangle](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -626,6 +627,7 @@ My leetcode solutions upload
 | [0073-set-matrix-zeroes](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0141-linked-list-cycle) |
@@ -787,6 +789,7 @@ My leetcode solutions upload
 | ------- |
 | [0053-maximum-subarray](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -893,6 +896,7 @@ My leetcode solutions upload
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0113-path-sum-ii) |
@@ -1014,6 +1018,7 @@ My leetcode solutions upload
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/KAsHiSHSET/LEETCODE-Solutions/tree/master/0113-path-sum-ii) |
