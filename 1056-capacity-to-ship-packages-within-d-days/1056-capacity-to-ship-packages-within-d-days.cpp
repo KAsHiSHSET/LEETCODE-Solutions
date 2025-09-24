@@ -33,3 +33,4 @@ public:
           return result;
     }
 };
+//tc-> 0(log2(sum-max+1)) * 0(n)
