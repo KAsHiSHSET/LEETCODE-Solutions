@@ -3,12 +3,13 @@ public:
     int func(vector<int> &nums,int threshold,int d){
          long long int sum=0;
          for(int i=0;i<nums.size();i++){
-            sum+=ceil((double)nums[i]/(double)d);
+            sum+=ceil((double)nums[i]/d);
             if(sum>threshold) return 2;
          }
          return 1;
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
+        if(nums.size()>threshold) return -1; // not possible to get the answer.
         int maxi= *max_element(nums.begin(),nums.end());
         // 1 2 3 4 5 .. 9 -> sample
         int low=1;
