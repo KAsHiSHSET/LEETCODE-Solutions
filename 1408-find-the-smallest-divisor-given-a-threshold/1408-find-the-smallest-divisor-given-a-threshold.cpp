@@ -3,7 +3,7 @@ public:
     int func(vector<int> &nums,int threshold,int d){
          long long int sum=0;
          for(int i=0;i<nums.size();i++){
-            sum+=ceil((double)nums[i]/(double)d);
+            sum+=ceil((double)nums[i]/d);
             if(sum>threshold) return 2;
          }
          return 1;
