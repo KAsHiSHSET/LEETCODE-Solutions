@@ -9,6 +9,7 @@ public:
          return 1;
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
+        if(nums.size()>threshold) return -1; // not possible to get the answer.
         int maxi= *max_element(nums.begin(),nums.end());
         // 1 2 3 4 5 .. 9 -> sample
         int low=1;
