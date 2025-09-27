@@ -19,11 +19,14 @@ public:
             ans.push_back(st.top());
             st.pop();
         }
+        //if stack mai sirf 0s the , iss loop ke baaad saare 0 nikal jayenge 
         while(ans.size()!=0 && ans.back()=='0'){
             ans.pop_back();
         }
-        reverse(ans.begin(),ans.end());
         if(ans.empty()) return "0";
+        reverse(ans.begin(),ans.end());
+        
+      
         return ans ;
 
     }
