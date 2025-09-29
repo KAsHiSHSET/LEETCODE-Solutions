@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-bit-flips-to-convert-number">2323. Minimum Bit Flips to Convert Number</a></h2><h3>Easy</h3><hr><p>A <strong>bit flip</strong> of a number <code>x</code> is choosing a bit in the binary representation of <code>x</code> and <strong>flipping</strong> it from either <code>0</code> to <code>1</code> or <code>1</code> to <code>0</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-bit-flips-to-convert-number">Minimum Bit Flips to Convert Number</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>A <strong>bit flip</strong> of a number <code>x</code> is choosing a bit in the binary representation of <code>x</code> and <strong>flipping</strong> it from either <code>0</code> to <code>1</code> or <code>1</code> to <code>0</code>.</p>
 
 <ul>
 	<li>For example, for <code>x = 7</code>, the binary representation is <code>111</code> and we may choose any bit (including any leading zeros not shown) and flip it. We can flip the first bit from the right to get <code>110</code>, flip the second bit from the right to get <code>101</code>, flip the fifth bit from the right (a leading zero) to get <code>10111</code>, etc.</li>
@@ -36,3 +36,6 @@ It can be shown we cannot convert 3 to 4 in less than 3 steps. Hence, we return 
 <ul>
 	<li><code>0 &lt;= start, goal &lt;= 10<sup>9</sup></code></li>
 </ul>
+
+<p>&nbsp;</p>
+<p><strong>Note:</strong> This question is the same as <a href="https://leetcode.com/problems/hamming-distance/description/" target="_blank">461: Hamming Distance.</a></p>
