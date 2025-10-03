@@ -55,7 +55,7 @@ public:
 
             if(hashneedle.first == hashhay.first && hashneedle.second == hashhay.second){
                 // verify substring to avoid collision
-                if(haystack.substr(i,m) == needle) return i;
+                 return i;
             }
         }
         return -1;
